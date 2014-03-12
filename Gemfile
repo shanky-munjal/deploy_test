@@ -39,7 +39,7 @@ end
 # gem 'unicorn'
 
 # Use Capistrano for deployment
-gem 'capistrano', '2.15', group: :development
+gem 'capistrano', '2.15.4', group: :development
 gem "rvm-capistrano"
 
 # Use debugger
